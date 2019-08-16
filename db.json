@@ -1,14 +1,16 @@
-[
-	{	  
-		"code": "akc99x0",
-		"userId": "jerryS67"
-	 },
-	 {
-		"code": "kek93lc",
-		"userId": "michael34"
-	},
-	{
-		"code": "pvl39vi",
-		"userId": "90saidh"
-	}
-]
+{	
+"codes":[
+			{	  
+				"code": "akc99x0",
+				"userId": "jerryS67"
+			 },
+			 {
+				"code": "kek93lc",
+				"userId": "michael34"
+			},
+			{
+				"code": "pvl39vi",
+				"userId": "90saidh"
+			}
+		]
+}
